@@ -1,0 +1,10 @@
+# AndroidProducts.mk for OPPO Reno 10x Zoom (SM8150)
+
+PRODUCT_NAME := omni_reno10x
+PRODUCT_DEVICE := reno10x
+PRODUCT_BRAND := OPPO
+PRODUCT_MODEL := CPH1919
+PRODUCT_MANUFACTURER := OPPO
+
+PRODUCT_PACKAGES += \
+    recovery
